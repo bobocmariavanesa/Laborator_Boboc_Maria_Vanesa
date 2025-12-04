@@ -1,4 +1,3 @@
-
 ## Prototipe Figma
 -Animatie : https://www.figma.com/proto/FNOWsANQ06wyAdsd39jpNG?node-id=0-1&t=lrx7tWXgTzVOyKBc-6
 -Exercitiu profil: https://www.figma.com/design/TKvKU8ckvf79ZSLuP4tIim/exerci%C8%9Biu-profil?m=auto&t=lrx7tWXgTzVOyKBc-6
